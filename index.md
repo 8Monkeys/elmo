@@ -13,16 +13,15 @@ widget-1:
     url: 'http://8monkeys.github.io/elmo/blog/'
     text: 'Sometimes things need to be said without opening an issue for the project'
     image: unsplash_9-302x182.jpg
-#widget-2:
-#    title: "What the heck is *elmo*?"
-#    url: 'http://8monkeys.github.io/elmo/info/'
-#    text: '<em>elmo</em> is an overlay network based on Kademlia. It's written in Haskell as a
-#    middleware for future games.'
-#    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
+widget-2:
+    title: "What is elmo?"
+    url: 'http://8monkeys.github.io/elmo/info/'
+    text: 'elmo is a structured overlay network based on Kademlia'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
-    title: "Contribute to *elmo*"
-    url: 'https://github.com/Phlow/feeling-responsive'
-    text: '<em>Feeling Responsive</em> is totally free and licensed under the MIT License. Make it your own and do with it what you want. Grab your copy or clone it at GitHub and start your website with it. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+    title: "Contribute to elmo"
+    url: 'https://github.com/8monkeys/elmo'
+    text: 'elmo is totally free and licensed under the MIT License.'
     image: github-303x182.jpg
 ---
 
