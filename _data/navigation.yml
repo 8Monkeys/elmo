@@ -6,16 +6,8 @@
   url: "/getting-started/"
   side: left
 
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+- title: "Changelog"
+  url: "/changelog/"
 
 - title: Blog
   url: "/blog/"
@@ -28,8 +20,4 @@
 
 - title: "Search"
   url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
   side: right
