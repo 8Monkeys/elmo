@@ -1,19 +1,16 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
+subheadline: "How to scale a game?"
 show_meta: false
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+teaser: "Curiosity brought me to the thoughts of distributed systems. Now it's time to build something meaningful with it"
 permalink: "/info/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
-...and learn at the same time.
+*elmo* is a first take on both development in Haskell and structured overlay networks for me. I read some papers about possible ways to achieve the same services as a centrally controlled one, with just the techniques of distributed computing. This will be a learning experience for me and a proof-of-concept at the same time.
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
-
-
-## Features
+<!-- ## Features
 
 * Responsive Gallery, Videos, Grid, Typography,...
 * 100% GitHub Pages friendly
@@ -45,7 +42,4 @@ Yours sincerelly, [Moritz »mo.« Sauer][7]
  [4]: http://alistapart.com/
  [5]: http://www.smashingmagazine.com/
  [6]: https://github.com/
- [7]: http://sauer.io
- [8]: #
- [9]: #
- [10]: #
+ [7]: http://sauer.io -->
